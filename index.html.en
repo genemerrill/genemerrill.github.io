@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Drag and Drop Cards</title>
+    <style>
+        #canvas {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Counter: <span id="counter">0</span></h1>
+    <canvas id="canvas" width="600" height="300"></canvas>
+    <script src="cardscript.js"></script>
+</body>
+</html>
